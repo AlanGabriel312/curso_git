@@ -3,3 +3,4 @@ cd -> move entre diretorios
 pwd -> mostra diretório
 cat -> exibe conteúdo do arquivos
 rm -> remove arquivos ou diretorios
+rm -rf -> remove de forma recursiva e forçada os diretorios
