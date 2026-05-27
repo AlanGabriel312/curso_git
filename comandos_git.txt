@@ -13,3 +13,4 @@ git log -> mostra todo o historico do commit
 6-preparar arquivo
 7-commit arquivo
 8-status arquivo
+9-refazer
