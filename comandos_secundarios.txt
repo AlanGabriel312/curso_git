@@ -1,3 +1,4 @@
 esse arqruivo contem comandos secundarios de git
 
 comandos mais genericos
+mais comandos
