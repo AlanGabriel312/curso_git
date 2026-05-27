@@ -1,0 +1,1 @@
+esse arqruivo contem comandos secundarios de git
